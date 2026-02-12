@@ -16,7 +16,5 @@ public class Nota {
         for (int i = 0; i < notas.length; i++) {
             System.out.println(notas[i]);
         }
-
-
     }
 }
