@@ -3,7 +3,7 @@
 import java.util.Scanner;
 
 public class Dic {
-     public static void main() {
+     public static void main(String[] args) {
          Scanner cc=new Scanner(System.in);
          double soma = 0;
 

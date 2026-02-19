@@ -4,7 +4,7 @@
 import java.util.Scanner;
 
 public class Note {
-    public static void main() {
+    public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
         double soma = 0;
 

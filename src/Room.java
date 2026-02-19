@@ -2,7 +2,7 @@
 import java.util.Scanner;
 
 public class Room {
-    public static void main() {
+    public static void main(String[] args) {
         Scanner cc = new Scanner(System.in);
 
         System.out.println("Digite um número: ");

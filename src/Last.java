@@ -1,7 +1,7 @@
 //Crie um array com 5 números
 //Mostre o maior número do array.
 public class Last {
-     public static void main() {
+     public static void main(String[] args) {
          int numeros [] = new int[5];
          numeros= new int[]{7,23,31,13,5};
 
